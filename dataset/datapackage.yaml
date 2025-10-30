@@ -26,5 +26,5 @@ resources:
           type: string
           description: "A (in)eficiência Operacional é calculada como a razão entre a permanência realizada e permanência prevista pelo sistema DRG Brasil Refinado no período considerado (por data de saída). Diárias previstas correspondem ao tempo médio de internação (diárias) para cada grupo de diagnósticos definido pelo sistema DRG. Diárias realizadas representam o número efetivo de diárias que cada paciente permaneceu internado."
     scheme: file
-    title: "(In)eficiência operacional a partir de 2025"
+    title: (In)eficiência operacional a partir de 2025
 title: Ineficiencia
