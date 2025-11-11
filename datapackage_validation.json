@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.021,
+  "time": 0.023,
   "errors": [],
   "tasks": [
     {
@@ -42,10 +42,10 @@
         "scheme": "file",
         "title": "(In)eficiência operacional a partir de 2025",
         "stats": {
-          "hash": "b6b3b074da58d5bb149943884d9b86d6",
-          "bytes": 1667,
+          "hash": "a724ef22c3a9c3d77cc9486d2cd4b1a9",
+          "bytes": 1847,
           "fields": 4,
-          "rows": 81
+          "rows": 90
         }
       },
       "time": 0.012,
